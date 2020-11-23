@@ -25,5 +25,6 @@ git add PUBLICATION_DATA
 
 Check out single file locally:
 ```shell script
-git lfs pull -I PUBLICATION_DATA/infra/000/infratructure.pkl
+git lfs pull -I PUBLICATION_DATA/infra/000/infrastructure.pkl
+git lfs pull -I PUBLICATION_DATA/infra/000/infrastructure_parameters.pkl
 ```
