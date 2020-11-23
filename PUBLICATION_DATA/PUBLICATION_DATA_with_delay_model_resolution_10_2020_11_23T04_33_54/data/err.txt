@@ -6246,3 +6246,5 @@
 [2020-11-23 13:02:27,207][ERROR][2485969][experiments.py:run_experiment_from_to_file:752] XXX failed 3261 PUBLICATION_DATA/PUBLICATION_DATA_with_delay_model_resolution_10_2020_11_23T04_33_54/data 
 [2020-11-23 13:02:41,222][ERROR][2485877][experiments.py:run_experiment_from_to_file:752] XXX failed 3258 PUBLICATION_DATA/PUBLICATION_DATA_with_delay_model_resolution_10_2020_11_23T04_33_54/data 
 [2020-11-23 13:02:41,222][ERROR][2485877][experiments.py:run_experiment_from_to_file:752] XXX failed 3258 PUBLICATION_DATA/PUBLICATION_DATA_with_delay_model_resolution_10_2020_11_23T04_33_54/data 
+[2020-11-23 13:31:21,812][ERROR][2479895][experiments.py:run_experiment_from_to_file:752] XXX failed 3242 PUBLICATION_DATA/PUBLICATION_DATA_with_delay_model_resolution_10_2020_11_23T04_33_54/data 
+[2020-11-23 13:31:21,812][ERROR][2479895][experiments.py:run_experiment_from_to_file:752] XXX failed 3242 PUBLICATION_DATA/PUBLICATION_DATA_with_delay_model_resolution_10_2020_11_23T04_33_54/data 
